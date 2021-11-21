@@ -1,0 +1,1699 @@
+@media (min-width: 0) and (max-width: 446.9px){
+.header_child1 {
+    width: 50%;
+}
+.header_child2{
+    display: none;
+}
+.header_child3 .btn{
+display: none;
+}
+.header_child3 img{
+    display: block;
+}
+.container{
+    flex-direction: column;
+}
+.container .section_child2 {
+    height: 350px;
+    width: 10px;
+    margin-left: 50%;
+}
+.container .section_child2 img{
+    width: 300px;
+}
+
+.container .section_child1{
+    width: 100%!important;
+}
+
+.container .section_child1 h1{
+    width: 60%!important;
+    text-align: center;
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.container .section_child1 p{
+    width: 80%!important;
+    margin-left: 10%;
+    text-align: center;
+}
+
+.container .section_child1 .button1{
+    font-size: 7px;
+    width: 60px;
+    height: 20px;
+}.container .section_child1 .button2{
+    width: 25px;
+    height: 25px;
+}.container .section_child1 .button3{
+    font-size: 7px;
+}
+.container .section_child2 .road{
+    width: 100px;
+    height: 100px;
+}
+.road .road_child div:nth-child(1){
+    width: 40%;
+    height: 40px;
+    margin-top: 5px;
+}
+.road .road_child div:nth-child(2){
+    width: 40%;
+    height: 40px;
+    margin-top: 5px;
+}
+.road .road_child div:nth-child(3){
+    width: 40%;
+    height: 40px;
+    margin-top: 5px;
+}
+.road .road_child div:nth-child(4){
+    width: 40%;
+    height: 40px;
+    margin-top: 5px;
+}
+.road .road_child .road_child_div_one{
+    width: 100%;
+border-radius: 14px;
+}
+.road .road_child .road_child_div_two{
+    width: 100%;
+border-radius: 14px;
+}
+.road .road_child .road_child_div_three{
+    width: 100%;
+border-radius: 14px;
+}
+.road .road_child .road_child_div_four{
+    width: 100%;
+border-radius: 14px;
+}
+.road .road_child .road_child_div_one img{
+   margin-top: 1px;
+   margin-left: 10px;
+    width: 20px;
+}
+.road .road_child .road_child_div_two img{
+    margin-top: 1px;
+    margin-left: 10px;
+    width: 20px;
+}
+.road .road_child .road_child_div_three img{
+    margin-top: 1px;
+    margin-left: 10px;
+    width: 20px;
+}
+.road .road_child .road_child_div_four img{
+    margin-top: 1px;
+   margin-left: 10px;
+    width: 20px;
+}
+/* section end */
+
+.container2{
+    flex-direction: column;
+}
+.container2 img{
+    width: 100%;
+}
+.container2 .online .netflix {
+    width: 100%;
+    height: 30px;
+}
+.container2 .online .forbes {
+    width: 100%;
+    height: 30px;
+}
+.container2 .online .itel {
+    width: 100%;
+    height: 30px;
+}
+.container2 .online .fedex {
+    width: 100%;
+    height: 30px;
+}
+.container2 .online2 .audiomack{
+    width: 100%;
+    height: 30px;
+}
+.container2 .online2 .penguines{
+    width: 100%;
+    height: 30px;
+}
+.container2 .online2 img{
+    width: 40%;
+}
+.container2 .online2 .cricl{
+    width: 100%;
+    height: 30px;
+}
+.container2 .online2 .cricl img{
+    width: 30%;
+}
+.container2 .online2 .gotomeeting{
+    width: 100%;
+    height: 30px;
+}
+/* section 2 end */
+
+.container3{
+    flex-direction: column;
+}
+.container3 .services{
+    margin-left: 10%;
+    width: 100%!important;
+}
+.container3 .services h1{
+    width: 80%!important;
+    text-align: center;
+    font-size: 35px;
+    line-height: 40px;
+}
+.container3 .services2{
+margin-left: 2%;
+    width: 100%!important;
+}
+
+
+.commit button{
+    width: 60%;
+    height: 50px;
+}
+.commit h1{
+font-size: 6px;
+line-height: 28px;
+}
+.commit p{
+font-size: 9px;
+line-height: 18px;
+}
+.commit .commit_btn1{
+    width: 80px;
+font-size: 6px;
+line-height: 2px;
+}
+.commit2 button{
+    width: 60%;
+    height: 50px;
+}
+.commit2 h1{
+font-size: 6px;
+line-height: 28px;
+}
+.commit2 p{
+font-size: 9px;
+line-height: 18px;
+}
+.commit2 .commit_btn2{
+    width: 50px;
+    margin-top: 30px;
+    height: 20px;
+font-size: 6px;
+line-height: 2px;
+}
+.commit3 button{
+    width: 60%;
+    height: 50px;
+}
+.commit3 h1{
+font-size: 6px;
+line-height: 28px;
+}
+.commit3 p{
+font-size: 9px;
+line-height: 18px;
+}
+.commit .commit_btn3{
+    width: 80px;
+font-size: 6px;
+line-height: 2px;
+}
+/* section 3 end */
+.container4{
+    flex-direction: column;
+}
+.container4 .achievements {
+    width: 100%;
+}
+.container4 .achievements .achievements_child_one button{
+  margin-left: 40%;
+
+}
+.container4 .achievements .achievements_child_one h1{
+    width: 100%!important;
+    text-align: center;
+    font-size: 25px;
+    line-height: 30px;
+}
+.container4 .achievements .stay{
+    width: 80%;
+    height: 400px;
+    margin-left: 10%;
+
+}
+.container4 .achievements .stay div:nth-child(1){
+    width: 100%;
+    height: 350px;
+
+}
+.container4 .achievements .stay div:nth-child(2){
+    top: 145px;
+}
+.container4 .achievements .stay img{
+    width: 300px;
+}
+.jophub{
+    width: 100%;
+}
+.jophub h1{
+    text-align: center;
+    font-size: 25px;
+    line-height: 28px;
+}
+.jophub p{
+    text-align: center;
+font-size: 10px;
+line-height: 24px;
+}
+.jophub button{
+    margin-left: 40%;
+    text-align: center;
+    width: 100px;
+    height: 17px;
+    margin-top: 10px;
+}
+.container4 .cent{
+    width: 100%;
+}
+.cent .cent_child_one{
+    margin-left: 5%;
+}
+.completed h1{
+font-size: 20px;
+line-height: 50px;
+}
+.Satisfiingly h3{
+font-size: 9px;
+line-height: 50px;
+}
+.Expertised p{
+font-size:8px;
+line-height: 50px;
+}
+.container4 .cent .happily{
+    width: 80%;
+    height: 400px;
+    margin-left: 10%;
+
+}
+.container4 .cent .happily div:nth-child(1){
+    width: 100%;
+    height: 340px;
+
+}
+.container4 .cent .happily div:nth-child(2){
+    top: 134px;
+}
+.container4 .cent .happily img{
+    width: 300px;
+}
+.app{
+    width: 100%;
+    }
+    .app h1{
+    text-align: center;
+    font-size: 20px;
+    line-height: 40px;
+    }
+    .app p{
+     text-align: center;
+    font-size: 10px;
+    line-height: 32px;
+    }
+/* section 4 end */
+
+    .container5{
+        flex-direction: column;
+    }
+    .container5 .blog .blog_child button{
+    font-size: 16px;
+    line-height: 19px;
+    margin-left: 45%;
+    }
+    .container5 .blog .blog_child h1{
+    font-size: 24px;
+    line-height: 40px;
+    text-align: center;
+    }
+    .container5 .blog .blog_child p{
+    font-size: 10px;
+    line-height: 20px;
+    text-align: center;
+    }
+
+    .Startups img{
+        width: 80%;
+    }
+    .Startups h1{
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .Startups p{
+    font-size: 10px;
+    line-height: 20px;
+    }
+    .Startups .btn_startup{
+        width: 50%;
+        height: 19px;
+        font-size: 10px;
+        margin-top: 10px;
+    }
+    .Unique {
+        margin-top: 20px;
+    }
+    .Unique img{
+        width: 80%;
+    }
+    .Unique h1{
+    font-size: 14px;
+    line-height: 20px;
+    }
+    .Unique p{
+    font-size: 10px;
+    line-height: 20px;
+    }
+    .Unique .btn_unique{
+    font-size: 10px;
+    line-height: 21px;
+    }
+    /* section 5 end */
+
+    .footer_child_two{
+        width: 100%;
+    }
+    .footer .footer_child h1{
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    }
+    .footer .footer_child p{
+        font-size: 7px;
+    line-height: 16px;
+    margin-left: -80px;
+    }
+    .footer .footer_child button{
+        font-size: 7px;
+        width: 20%;
+        height: 19px;
+    }
+    .amid_child_two{
+        display: none;
+    }
+    .amid_child_three ul{
+        display: none;
+    }
+    .amid_child_three img{
+        display: block;
+    }
+    .end_footer{
+        height: 20px;
+    }
+    .end_footer p{
+        font-size: 8px;
+    }
+    .end_footer  a i{
+        width: 10px;
+    }
+
+}
+
+
+@media (min-width: 447px) and (max-width: 768.9px){
+    .header_child1 {
+        width: 50%;
+    }
+    .header_child2{
+        display: none;
+    }
+    .header_child3 .btn{
+    display: none;
+    }
+    .header_child3 img{
+        display: block;
+    }
+    .container{
+        flex-direction: column;
+    }
+    .container .section_child2 {
+        height: 250px;
+        width: 10px;
+        margin-left: 50%;
+    }
+    .container .section_child2 img{
+        width: 300px;
+    }
+    
+    .container .section_child1{
+        width: 100%!important;
+    }
+    
+    .container .section_child1 h1{
+        width: 80%!important;
+        text-align: center;
+        font-size: 35px;
+        line-height: 40px;
+    }
+    
+    .container .section_child1 p{
+        width: 90%!important;
+        margin-left: 10%;
+        text-align: center;
+    }
+    
+    .container .section_child1 .button1{
+        margin-left: 170px;
+        font-size: 7px;
+        width: 60px;
+        height: 20px;
+    }.container .section_child1 .button2{
+        width: 25px;
+        height: 25px;
+    }.container .section_child1 .button3{
+        font-size: 7px;
+    }
+    .container .section_child2 .road{
+        width: 100px;
+        height: 100px;
+    }
+    .road .road_child div:nth-child(1){
+        width: 40%;
+        height: 40px;
+        margin-top: 5px;
+    }
+    .road .road_child div:nth-child(2){
+        width: 40%;
+        height: 40px;
+        margin-top: 5px;
+    }
+    .road .road_child div:nth-child(3){
+        width: 40%;
+        height: 40px;
+        margin-top: 5px;
+    }
+    .road .road_child div:nth-child(4){
+        width: 40%;
+        height: 40px;
+        margin-top: 5px;
+    }
+    .road .road_child .road_child_div_one{
+        width: 100%;
+    border-radius: 14px;
+    }
+    .road .road_child .road_child_div_two{
+        width: 100%;
+    border-radius: 14px;
+    }
+    .road .road_child .road_child_div_three{
+        width: 100%;
+    border-radius: 14px;
+    }
+    .road .road_child .road_child_div_four{
+        width: 100%;
+    border-radius: 14px;
+    }
+    .road .road_child .road_child_div_one img{
+       margin-top: 1px;
+       margin-left: 10px;
+        width: 20px;
+    }
+    .road .road_child .road_child_div_two img{
+        margin-top: 1px;
+        margin-left: 10px;
+        width: 20px;
+    }
+    .road .road_child .road_child_div_three img{
+        margin-top: 1px;
+        margin-left: 10px;
+        width: 20px;
+    }
+    .road .road_child .road_child_div_four img{
+        margin-top: 1px;
+       margin-left: 10px;
+        width: 20px;
+    }
+    /* section end */
+    
+    .container2{
+        flex-direction: column;
+    }
+    .container2 img{
+        width: 100%;
+    }
+    .container2 .online .netflix {
+        width: 100%;
+        height: 40px;
+    }
+    .container2 .online .forbes {
+        width: 100%;
+        height: 40px;
+    }
+    .container2 .online .itel {
+        width: 100%;
+        height: 40px;
+    }
+    .container2 .online .fedex {
+        width: 100%;
+        height: 40px;
+    }
+    .container2 .online2 .audiomack{
+        width: 100%;
+        height: 40px;
+    }
+    .container2 .online2 .penguines{
+        width: 100%;
+        height: 40px;
+    }
+    .container2 .online2 img{
+        width: 40%;
+    }
+    .container2 .online2 .cricl{
+        width: 100%;
+        height: 40px;
+    }
+    .container2 .online2 .cricl img{
+        width: 25%;
+    }
+    .container2 .online2 .gotomeeting img{
+        width: 60%;
+    }
+    .container2 .online2 .gotomeeting{
+        width: 100%;
+        height: 40px;
+    }
+    /* section 2 end */
+    
+    .container3{
+        flex-direction: column;
+    }
+    .container3 .services{
+        margin-left: 10%;
+        width: 100%!important;
+    }
+    .container3 .services h1{
+        width: 80%!important;
+        text-align: center;
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .container3 .services2{
+        margin-left: 10%;
+        width: 100%!important;
+    }
+    .container3 .services2 p{
+        width: 80%;
+        text-align: center;
+    }
+    
+    
+    .commit button{
+        width: 60%;
+        height: 50px;
+    }
+    .commit h1{
+    font-size: 6px;
+    line-height: 28px;
+    }
+    .commit p{
+    font-size: 9px;
+    line-height: 18px;
+    }
+    .commit .commit_btn1{
+        width: 80px;
+    font-size: 6px;
+    line-height: 2px;
+    }
+    .commit2 button{
+        width: 60%;
+        height: 50px;
+    }
+    .commit2 h1{
+    font-size: 6px;
+    line-height: 28px;
+    }
+    .commit2 p{
+    font-size: 9px;
+    line-height: 18px;
+    }
+    .commit2 .commit_btn2{
+        width: 50px;
+        margin-top: 30px;
+        height: 20px;
+    font-size: 6px;
+    line-height: 2px;
+    }
+    .commit3 button{
+        width: 60%;
+        height: 50px;
+    }
+    .commit3 h1{
+    font-size: 6px;
+    line-height: 28px;
+    }
+    .commit3 p{
+    font-size: 9px;
+    line-height: 18px;
+    }
+    .commit .commit_btn3{
+        width: 80px;
+    font-size: 6px;
+    line-height: 2px;
+    }
+    /* section 3 end */
+    .container4{
+        flex-direction: column;
+    }
+    .container4 .achievements {
+        width: 100%;
+    }
+    .container4 .achievements .achievements_child_one button{
+      margin-left: 40%;
+    
+    }
+    .container4 .achievements .achievements_child_one h1{
+        width: 100%!important;
+        text-align: center;
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .container4 .achievements .stay{
+        width: 80%;
+        height: 650px;
+        margin-left: 10%;
+    
+    }
+    .container4 .achievements .stay div:nth-child(1){
+        width: 100%;
+        height: 550px;
+    
+    }
+    .container4 .achievements .stay div:nth-child(2){
+        top: 245px;
+    }
+    .container4 .achievements .stay img{
+        width: 500px;
+    }
+    .jophub{
+        width: 100%;
+    }
+    .jophub h1{
+        text-align: center;
+        font-size: 30px;
+        line-height: 28px;
+    }
+    .jophub p{
+        text-align: center;
+    font-size: 20px;
+    line-height: 34px;
+    }
+    .jophub button{
+        margin-left: 40%;
+        text-align: center;
+        width: 150px;
+        height: 27px;
+        margin-top: 10px;
+    }
+    .container4 .cent{
+        width: 100%;
+    }
+    .cent .cent_child_one{
+        margin-left: 5%;
+    }
+    .completed h1{
+    font-size: 20px;
+    line-height: 50px;
+    }
+    .Satisfiingly h3{
+    font-size: 9px;
+    line-height: 50px;
+    }
+    .Expertised p{
+    font-size:8px;
+    line-height: 50px;
+    }
+    .container4 .cent .happily{
+        width: 80%;
+        height: 650px;
+        margin-left: 10%;
+    
+    }
+    .container4 .cent .happily div:nth-child(1){
+        width: 100%;
+        height: 520px;
+    
+    }
+    .container4 .cent .happily div:nth-child(2){
+        top: 215px;
+    }
+    .container4 .cent .happily img{
+        width: 480px;
+    }
+    .app{
+        width: 100%;
+        }
+        .app h1{
+        text-align: center;
+        font-size: 30px;
+        line-height: 40px;
+        }
+        .app p{
+         text-align: center;
+        font-size: 20px;
+        line-height: 32px;
+        }
+    /* section 4 end */
+    
+        .container5{
+            flex-direction: column;
+        }
+        .container5 .blog .blog_child button{
+        font-size: 16px;
+        line-height: 19px;
+        margin-left: 45%;
+        }
+        .container5 .blog .blog_child h1{
+        font-size: 24px;
+        line-height: 40px;
+        text-align: center;
+        }
+        .container5 .blog .blog_child p{
+        font-size: 10px;
+        line-height: 20px;
+        text-align: center;
+        }
+    
+        .Startups img{
+            width: 80%;
+        }
+        .Startups h1{
+            font-size: 14px;
+            line-height: 20px;
+        }
+        .Startups p{
+        font-size: 10px;
+        line-height: 20px;
+        }
+        .Startups .btn_startup{
+            width: 50%;
+            height: 19px;
+            font-size: 10px;
+            margin-top: 10px;
+        }
+        .Unique {
+            margin-top: 20px;
+        }
+        .Unique img{
+            width: 80%;
+        }
+        .Unique h1{
+        font-size: 14px;
+        line-height: 20px;
+        }
+        .Unique p{
+        font-size: 10px;
+        line-height: 20px;
+        }
+        .Unique .btn_unique{
+        font-size: 10px;
+        line-height: 21px;
+        }
+        /* section 5 end */
+    
+        .footer_child_two{
+            width: 100%;
+        }
+        .footer .footer_child h1{
+        font-size: 24px;
+        line-height: 36px;
+        text-align: center;
+        }
+        .footer .footer_child p{
+            font-size: 7px;
+        line-height: 16px;
+        margin-left: -80px;
+        }
+        .footer .footer_child button{
+            font-size: 7px;
+            width: 20%;
+            height: 19px;
+        }
+        .amid_child_two{
+            display: none;
+        }
+        .amid_child_three ul{
+            display: none;
+        }
+        .amid_child_three img{
+            display: block;
+        }
+        .end_footer{
+            height: 20px;
+        }
+        .end_footer p{
+            font-size: 8px;
+        }
+        .end_footer  a i{
+            width: 10px;
+        }
+    
+}
+
+
+@media (min-width: 769px) and (max-width: 989.9px){
+    .header_child2{
+        display: block;
+    }
+    .header_child3 .btn{
+    display: block;
+    }
+    .header_child3 img{
+        display: none;
+    }
+    .container .section_child2 img{
+        width: 430px;
+    }
+        
+    .container .section_child1 h1{
+        font-size: 35px;
+        line-height: 40px;
+    }
+    
+    .container .section_child1 .button1{
+        font-size: 7px;
+        width: 60px;
+        height: 20px;
+    }.container .section_child1 .button2{
+        width: 25px;
+        height: 25px;
+    }.container .section_child1 .button3{
+        font-size: 7px;
+    }
+    .container .section_child2 .road{
+        margin-top: 50px;
+        width: 100px;
+        height: 100px;
+    }
+    .road .road_child div:nth-child(1){
+        width: 40%;
+        height: 40px;
+        margin-top: 5px;
+    }
+    .road .road_child div:nth-child(2){
+        width: 40%;
+        height: 40px;
+        margin-top: 5px;
+    }
+    .road .road_child div:nth-child(3){
+        width: 40%;
+        height: 40px;
+        margin-top: 5px;
+    }
+    .road .road_child div:nth-child(4){
+        width: 40%;
+        height: 40px;
+        margin-top: 5px;
+    }
+    .road .road_child .road_child_div_one{
+        width: 100%;
+    border-radius: 14px;
+    }
+    .road .road_child .road_child_div_two{
+        width: 100%;
+    border-radius: 14px;
+    }
+    .road .road_child .road_child_div_three{
+        width: 100%;
+    border-radius: 14px;
+    }
+    .road .road_child .road_child_div_four{
+        width: 100%;
+    border-radius: 14px;
+    }
+    .road .road_child .road_child_div_one img{
+       margin-top: 1px;
+       margin-left: 10px;
+        width: 20px;
+    }
+    .road .road_child .road_child_div_two img{
+        margin-top: 1px;
+        margin-left: 10px;
+        width: 20px;
+    }
+    .road .road_child .road_child_div_three img{
+        margin-top: 1px;
+        margin-left: 10px;
+        width: 20px;
+    }
+    .road .road_child .road_child_div_four img{
+        margin-top: 1px;
+       margin-left: 10px;
+        width: 20px;
+    }
+    /* section end */
+    
+    .container2{
+        flex-direction: column;
+    }
+    .container2 img{
+        width: 100%;
+    }
+    .container2 .online .netflix {
+        width: 100%;
+        height: 40px;
+    }
+    .container2 .online .forbes {
+        width: 100%;
+        height: 40px;
+    }
+    .container2 .online .itel {
+        width: 100%;
+        height: 40px;
+    }
+    .container2 .online .fedex {
+        width: 100%;
+        height: 40px;
+    }
+    .container2 .online2 .audiomack{
+        width: 100%;
+        height: 40px;
+    }
+    .container2 .online2 .penguines{
+        width: 100%;
+        height: 40px;
+    }
+    .container2 .online2 img{
+        width: 40%;
+    }
+    .container2 .online2 .cricl{
+        width: 100%;
+        height: 40px;
+    }
+    .container2 .online2 .cricl img{
+        width: 25%;
+    }
+    .container2 .online2 .gotomeeting img{
+        width: 60%;
+    }
+    .container2 .online2 .gotomeeting{
+        width: 100%;
+        height: 40px;
+    }
+    /* section 2 end */
+    
+    .container3{
+        flex-direction: column;
+    }
+    .container3 .services{
+        margin-left: 10%;
+        width: 100%!important;
+    }
+    .container3 .services h1{
+        width: 80%!important;
+        text-align: center;
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .container3 .services2{
+        margin-left: 10%;
+        width: 100%!important;
+    }
+    .container3 .services2 p{
+        width: 80%;
+        text-align: center;
+    }
+    
+    
+    .commit button{
+        width: 60%;
+        height: 50px;
+    }
+    .commit h1{
+    font-size: 6px;
+    line-height: 28px;
+    }
+    .commit p{
+    font-size: 9px;
+    line-height: 18px;
+    }
+    .commit .commit_btn1{
+        width: 80px;
+    font-size: 6px;
+    line-height: 2px;
+    }
+    .commit2 button{
+        width: 60%;
+        height: 50px;
+    }
+    .commit2 h1{
+    font-size: 6px;
+    line-height: 28px;
+    }
+    .commit2 p{
+    font-size: 9px;
+    line-height: 18px;
+    }
+    .commit2 .commit_btn2{
+        width: 50px;
+        margin-top: 30px;
+        height: 20px;
+    font-size: 6px;
+    line-height: 2px;
+    }
+    .commit3 button{
+        width: 60%;
+        height: 50px;
+    }
+    .commit3 h1{
+    font-size: 6px;
+    line-height: 28px;
+    }
+    .commit3 p{
+    font-size: 9px;
+    line-height: 18px;
+    }
+    .commit .commit_btn3{
+        width: 80px;
+    font-size: 6px;
+    line-height: 2px;
+    }
+    /* section 3 end */
+    .container4 .achievements {
+        width: 100%;
+    }
+    .container4 .achievements .achievements_child_one button{
+      margin-left: 40%;
+    
+    }
+    .container4 .achievements .achievements_child_one h1{
+        width: 100%!important;
+        text-align: center;
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .container4 .achievements .stay{
+        width: 35%;
+        height: 350px;
+        margin-left: 10%;
+    
+    }
+    .container4 .achievements .stay div:nth-child(1){
+        width: 100%;
+        height: 350px;
+    
+    }
+    .container4 .achievements .stay div:nth-child(2){
+        top: 145px;
+    }
+    .container4 .achievements .stay img{
+        width: 300px;
+    }
+    .jophub{
+        width: 100%;
+    }
+    .jophub h1{
+        text-align: center;
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .jophub p{
+        text-align: center;
+    font-size: 10px;
+    line-height: 34px;
+    }
+    .jophub button{
+        margin-left: 20%;
+        text-align: center;
+        width: 100px;
+        font-size: 10px;
+        height: 17px;
+        margin-top: 10px;
+    }
+    .container4 .cent{
+        width: 100%;
+    }
+    .cent .cent_child_one{
+        margin-left: 5%;
+    }
+    .completed h1{
+    font-size: 20px;
+    line-height: 50px;
+    }
+    .Satisfiingly h3{
+    font-size: 9px;
+    line-height: 50px;
+    }
+    .Expertised p{
+    font-size:8px;
+    line-height: 50px;
+    }
+    .container4 .cent .happily{
+        width: 65%;
+        height: 400px;
+        margin-left: 10%;
+    
+    }
+    .container4 .cent .happily div:nth-child(1){
+        width: 100%;
+        height: 320px;
+    
+    }
+    .container4 .cent .happily div:nth-child(2){
+        top: 125px;
+    }
+    .container4 .cent .happily img{
+        width: 280px;
+    }
+    .app{
+        width: 100%;
+        }
+        .app h1{
+        text-align: center;
+        font-size: 20px;
+        line-height: 40px;
+        }
+        .app p{
+         text-align: center;
+        font-size: 20px;
+        line-height: 32px;
+        }
+    /* section 4 end */
+    
+        .container5{
+            flex-direction: column;
+        }
+        .container5 .blog .blog_child button{
+        font-size: 16px;
+        line-height: 19px;
+        margin-left: 45%;
+        }
+        .container5 .blog .blog_child h1{
+        font-size: 24px;
+        line-height: 40px;
+        text-align: center;
+        }
+        .container5 .blog .blog_child p{
+        font-size: 10px;
+        line-height: 20px;
+        text-align: center;
+        }
+    
+        .Startups img{
+            width: 80%;
+        }
+        .Startups h1{
+            font-size: 14px;
+            line-height: 20px;
+        }
+        .Startups p{
+        font-size: 10px;
+        line-height: 20px;
+        }
+        .Startups .btn_startup{
+            width: 50%;
+            height: 19px;
+            font-size: 10px;
+            margin-top: 10px;
+        }
+        .Unique {
+            margin-top: 20px;
+        }
+        .Unique img{
+            width: 80%;
+        }
+        .Unique h1{
+        font-size: 14px;
+        line-height: 20px;
+        }
+        .Unique p{
+        font-size: 10px;
+        line-height: 20px;
+        }
+        .Unique .btn_unique{
+        font-size: 10px;
+        line-height: 21px;
+        }
+        /* section 5 end */
+    
+        .footer_child_two{
+            width: 100%;
+        }
+        .footer .footer_child h1{
+        font-size: 24px;
+        line-height: 36px;
+        text-align: center;
+        }
+        .footer .footer_child p{
+            font-size: 7px;
+        line-height: 16px;
+        margin-left: -80px;
+        }
+        .footer .footer_child button{
+            font-size: 7px;
+            width: 20%;
+            height: 19px;
+        }
+        .amid_child_two{
+            display: block;
+        }
+        .amid_child_three ul{
+            display: block;
+        }
+        .amid_child_three img{
+            display: none;
+        }
+        .end_footer{
+            height: 20px;
+        }
+        .end_footer p{
+            font-size: 8px;
+        }
+        .end_footer  a i{
+            width: 10px;
+        }
+    
+    }
+
+
+@media (min-width: 990px) and (max-width: 1199.9px){
+    .header_child2{
+        display: block;
+    }
+    .header_child3 .btn{
+    display: block;
+    }
+    .header_child3 img{
+        display: none;
+    }
+    .container .section_child2 img{
+        width: 430px;
+    }
+        
+    .container .section_child1 h1{
+        font-size: 35px;
+        line-height: 40px;
+    }
+    
+    .container .section_child1 .button1{
+        font-size: 7px;
+        width: 60px;
+        height: 20px;
+    }.container .section_child1 .button2{
+        width: 25px;
+        height: 25px;
+    }.container .section_child1 .button3{
+        font-size: 7px;
+    }
+    .container .section_child2 .road{
+        margin-top: 50px;
+        width: 100px;
+        height: 100px;
+    }
+    .road .road_child div:nth-child(1){
+        width: 40%;
+        height: 40px;
+        margin-top: 5px;
+    }
+    .road .road_child div:nth-child(2){
+        width: 40%;
+        height: 40px;
+        margin-top: 5px;
+    }
+    .road .road_child div:nth-child(3){
+        width: 40%;
+        height: 40px;
+        margin-top: 5px;
+    }
+    .road .road_child div:nth-child(4){
+        width: 40%;
+        height: 40px;
+        margin-top: 5px;
+    }
+    .road .road_child .road_child_div_one{
+        width: 100%;
+    border-radius: 14px;
+    }
+    .road .road_child .road_child_div_two{
+        width: 100%;
+    border-radius: 14px;
+    }
+    .road .road_child .road_child_div_three{
+        width: 100%;
+    border-radius: 14px;
+    }
+    .road .road_child .road_child_div_four{
+        width: 100%;
+    border-radius: 14px;
+    }
+    .road .road_child .road_child_div_one img{
+       margin-top: 1px;
+       margin-left: 10px;
+        width: 20px;
+    }
+    .road .road_child .road_child_div_two img{
+        margin-top: 1px;
+        margin-left: 10px;
+        width: 20px;
+    }
+    .road .road_child .road_child_div_three img{
+        margin-top: 1px;
+        margin-left: 10px;
+        width: 20px;
+    }
+    .road .road_child .road_child_div_four img{
+        margin-top: 1px;
+       margin-left: 10px;
+        width: 20px;
+    }
+    /* section end */
+    
+    .container2{
+        flex-direction: column;
+    }
+    .container2 img{
+        width: 100%;
+    }
+    .container2 .online .netflix {
+        width: 100%;
+        height: 60px;
+    }
+    .container2 .online .forbes {
+        width: 100%;
+        height: 60px;
+    }
+    .container2 .online .itel {
+        width: 100%;
+        height: 60px;
+    }
+    .container2 .online .fedex {
+        width: 100%;
+        height: 60px;
+    }
+    .container2 .online2 .audiomack{
+        width: 100%;
+        height: 60px;
+    }
+    .container2 .online2 .penguines{
+        width: 100%;
+        height: 60px;
+    }
+    .container2 .online2 img{
+        width: 40%;
+    }
+    .container2 .online2 .cricl{
+        width: 100%;
+        height: 60px;
+    }
+    .container2 .online2 .cricl img{
+        width: 25%;
+    }
+    .container2 .online2 .gotomeeting img{
+        width: 60%;
+    }
+    .container2 .online2 .gotomeeting{
+        width: 100%;
+        height: 60px;
+    }
+    /* section 2 end */
+    
+    .container3{
+        flex-direction: column;
+    }
+    .container3 .services{
+        margin-left: 10%;
+        width: 100%!important;
+    }
+    .container3 .services h1{
+        width: 80%!important;
+        text-align: center;
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .container3 .services2{
+        margin-left: 10%;
+        width: 100%!important;
+    }
+    .container3 .services2 p{
+        width: 80%;
+        text-align: center;
+    }
+    
+    
+    .commit button{
+        width: 60%;
+        height: 50px;
+    }
+    .commit h1{
+    font-size: 6px;
+    line-height: 28px;
+    }
+    .commit p{
+    font-size: 9px;
+    line-height: 18px;
+    }
+    .commit .commit_btn1{
+        width: 80px;
+    font-size: 6px;
+    line-height: 2px;
+    }
+    .commit2 button{
+        width: 60%;
+        height: 50px;
+    }
+    .commit2 h1{
+    font-size: 6px;
+    line-height: 28px;
+    }
+    .commit2 p{
+    font-size: 9px;
+    line-height: 18px;
+    }
+    .commit2 .commit_btn2{
+        width: 50px;
+        margin-top: 30px;
+        height: 20px;
+    font-size: 6px;
+    line-height: 2px;
+    }
+    .commit3 button{
+        width: 60%;
+        height: 50px;
+    }
+    .commit3 h1{
+    font-size: 6px;
+    line-height: 28px;
+    }
+    .commit3 p{
+    font-size: 9px;
+    line-height: 18px;
+    }
+    .commit .commit_btn3{
+        width: 80px;
+    font-size: 6px;
+    line-height: 2px;
+    }
+    /* section 3 end */
+    .container4 .achievements {
+        width: 100%;
+    }
+    .container4 .achievements .achievements_child_one button{
+      margin-left: 40%;
+    
+    }
+    .container4 .achievements .achievements_child_one h1{
+        width: 100%!important;
+        text-align: center;
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .container4 .achievements .stay{
+        width: 60%;
+        height: 350px;
+        margin-left: 10%;
+    
+    }
+    .container4 .achievements .stay div:nth-child(1){
+        width: 100%;
+        height: 350px;
+    
+    }
+    .container4 .achievements .stay div:nth-child(2){
+        top: 145px;
+    }
+    .container4 .achievements .stay img{
+        width: 300px;
+    }
+    .jophub{
+        width: 100%;
+    }
+    .jophub h1{
+        text-align: center;
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .jophub p{
+        text-align: center;
+    font-size: 10px;
+    line-height: 34px;
+    }
+    .jophub button{
+        margin-left: 20%;
+        text-align: center;
+        width: 100px;
+        font-size: 10px;
+        height: 17px;
+        margin-top: 10px;
+    }
+    .container4 .cent{
+        width: 100%;
+    }
+    .cent .cent_child_one{
+        margin-left: 5%;
+    }
+    .completed h1{
+    font-size: 20px;
+    line-height: 50px;
+    }
+    .Satisfiingly h3{
+    font-size: 9px;
+    line-height: 50px;
+    }
+    .Expertised p{
+    font-size:8px;
+    line-height: 50px;
+    }
+    .container4 .cent .happily{
+        width: 65%;
+        height: 400px;
+        margin-left: 10%;
+    
+    }
+    .container4 .cent .happily div:nth-child(1){
+        width: 100%;
+        height: 320px;
+    
+    }
+    .container4 .cent .happily div:nth-child(2){
+        top: 125px;
+    }
+    .container4 .cent .happily img{
+        width: 280px;
+    }
+    .app{
+        width: 100%;
+        }
+        .app h1{
+        text-align: center;
+        font-size: 20px;
+        line-height: 40px;
+        }
+        .app p{
+         text-align: center;
+        font-size: 20px;
+        line-height: 32px;
+        }
+    /* section 4 end */
+    
+        .container5{
+            flex-direction: column;
+        }
+        .container5 .blog .blog_child button{
+        font-size: 16px;
+        line-height: 19px;
+        margin-left: 45%;
+        }
+        .container5 .blog .blog_child h1{
+        font-size: 24px;
+        line-height: 40px;
+        text-align: center;
+        }
+        .container5 .blog .blog_child p{
+        font-size: 10px;
+        line-height: 20px;
+        text-align: center;
+        }
+    
+        .Startups img{
+            width: 80%;
+        }
+        .Startups h1{
+            font-size: 14px;
+            line-height: 20px;
+        }
+        .Startups p{
+        font-size: 10px;
+        line-height: 20px;
+        }
+        .Startups .btn_startup{
+            width: 50%;
+            height: 19px;
+            font-size: 10px;
+            margin-top: 10px;
+        }
+        .Unique {
+            margin-top: 20px;
+        }
+        .Unique img{
+            width: 80%;
+        }
+        .Unique h1{
+        font-size: 14px;
+        line-height: 20px;
+        }
+        .Unique p{
+        font-size: 10px;
+        line-height: 20px;
+        }
+        .Unique .btn_unique{
+        font-size: 10px;
+        line-height: 21px;
+        }
+        /* section 5 end */
+    
+        .footer_child_two{
+            width: 100%;
+        }
+        .footer .footer_child h1{
+        font-size: 24px;
+        line-height: 36px;
+        text-align: center;
+        }
+        .footer .footer_child p{
+            font-size: 7px;
+        line-height: 16px;
+        margin-left: -80px;
+        }
+        .footer .footer_child button{
+            font-size: 7px;
+            width: 20%;
+            height: 19px;
+        }
+        .amid_child_two{
+            display: block;
+        }
+        .amid_child_three ul{
+            display: block;
+        }
+        .amid_child_three img{
+            display: none;
+        }
+        .end_footer{
+            height: 20px;
+        }
+        .end_footer p{
+            font-size: 8px;
+        }
+        .end_footer  a i{
+            width: 10px;
+        } 
+}
